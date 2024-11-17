@@ -83,3 +83,7 @@ Report will be available at path
 ``` 
 target/reports/checkstyle.html 
 ```
+
+## UML Class Diagram ##
+
+![Alt text](uml/class_uml_diagram.drawio.png?raw=true "Title")
