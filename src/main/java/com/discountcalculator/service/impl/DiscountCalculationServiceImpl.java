@@ -1,6 +1,5 @@
 package com.discountcalculator.service.impl;
 
-import com.discountcalculator.integration.fx.ForeignExchangeService;
 import com.discountcalculator.model.BillCalculationRequest;
 import com.discountcalculator.model.Item;
 import com.discountcalculator.model.ItemCategory;
