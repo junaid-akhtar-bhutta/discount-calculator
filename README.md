@@ -72,3 +72,14 @@ Integration with service **Exchangerate Api**
 
 https://www.exchangerate-api.com/
 
+## Linting - Check Style ##
+
+Generate checkstyle report
+```
+./mvnw checkstyle:checkstyle
+```
+
+Report will be available at path
+``` 
+target/reports/checkstyle.html 
+```
